@@ -1,2 +1,2 @@
 # zubatti
-advanced calculator
+advanced calculator written in haskell
